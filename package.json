@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "test": "playwright test --workers 1 --reporter list"
+  },
   "devDependencies": {
     "@playwright/test": "^1.38.0-alpha-aug-11-2023"
   }
