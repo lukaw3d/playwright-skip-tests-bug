@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.38.0-alpha-aug-11-2023"
+  }
+}
